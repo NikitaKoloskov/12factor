@@ -7,3 +7,5 @@ gem 'thin'
 gem 'maruku'
 gem 'i18n'
 gem 'rack-ssl-enforcer'
+test test
+test
